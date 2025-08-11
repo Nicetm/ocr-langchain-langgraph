@@ -1,0 +1,6 @@
+Extrae la forma de actuar de la administración desde el siguiente texto legal. devuelve solo el tipo de forma de actuar
+Reglas:
+- Si existe explícitamente "actuar de la administración", responde solo el tipo sin texto adicional
+- Si no aparece explícitamente la forma de actuar, responde solo con N/A.
+Texto:
+{texto} 

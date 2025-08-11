@@ -1,0 +1,5 @@
+Extrae la razón social de la sociedad desde el siguiente texto legal. Devuelve solo la razón social.
+Reglas:
+- Si no aparece explícitamente la razón social, responde solo con N/A.
+Texto:
+{texto} 

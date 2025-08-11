@@ -1,0 +1,6 @@
+Extrae el domicilio de la sociedad desde el siguiente texto legal. Devuelve solo el domicilio o domicilios.
+Reglas:
+- Si hay más de un domicilio, devuélvelos todos separados por '|'.
+- Si no aparece explícitamente el domicilio, responde solo con N/A.
+Texto:
+{texto} 

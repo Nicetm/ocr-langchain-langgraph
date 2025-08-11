@@ -1,0 +1,6 @@
+Extrae el tipo de sociedad (por ejemplo: Sociedad Anónima, Sociedad por Acciones, Limitada, SpA, etc.) desde el siguiente texto legal. Devuelve solo el tipo.
+Reglas:
+- No inventes datos.
+- Si no hay "tipo de sociedad", responde solo con N/A.
+Texto:
+{texto} 

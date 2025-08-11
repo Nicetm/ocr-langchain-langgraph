@@ -1,0 +1,6 @@
+Extrae el tipo de responsabilidad de los socios (por ejemplo: limitada, limitada al monto de los aportes, etc.) desde el siguiente texto legal.
+Reglas:
+- Si existe el "tipo de responsabilidad", responde solo con el tipo
+- si no existe "tipo de responsabilidad", responde solo con N/A.
+Texto:
+{texto} 

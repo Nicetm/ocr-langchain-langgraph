@@ -1,0 +1,47 @@
+Seccion Constitucion de la Sociedad
+    - Razon Social Anterior
+    - Tipo de Sociedad
+    - Domicilio
+    - Objeto Social (Objetivo del documento o resumen)
+    - Fecha de Constitución
+    - Fecha de Término
+    - Frecuencia de Prorroga
+    - En caso de Fallecimiento
+    
+Sección de Capital Social
+    - Capital Suscrito
+    - Capital Pagado
+    - Plazo para Entregarlo
+    - Cierre del Ejercicio
+    - Responsabilidad Socios
+    - Distribución Utilidades
+    - Número de Acciones
+    - Observaciones
+
+Sección de Administración
+    - Tipo de Administración
+    - Administradores Titulares
+    - Administradores Suplentes
+    - Duración 
+    - Firmas Requeridas
+    - Titulares Rep. Legal
+    - Forma de Actuar
+    - Observaciones
+
+
+Caso de ejemplo
+
+Directorio:
+    Bastias SPA 76.154.106-4
+    Documentos:
+        CONSTITUCIÓN 76.154.106-4.pdf
+        DO 2 76.154.106-4.pdf
+        DO 3 76.154.106-4.pdf
+        DO 76.154.106-4.pdf
+        EXTRACTO 76.154.106-4.pdf
+        INSCRIPCIÓN 76.154.106-4.pdf
+        MODIFICACIÓN 76.154.106-4.pdf
+        PROCOLIZACIÓN 76.154.106-4.pdf
+        PUBLICACIÓN 2 76.154.106-4.pdf
+        PUBLICACIÓN 76.154.106-4.pdf
+        TRANSFORMACIÓN 76.154.106-4.pdf

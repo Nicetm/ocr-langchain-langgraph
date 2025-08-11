@@ -1,0 +1,6 @@
+Extrae el monto del capital suscrito de la sociedad desde el siguiente texto legal. Devuelve solo el monto.
+Reglas:
+- Si existe el monto, devuelve solo el valor numerico
+- Si no aparece "monto capital suscrito" cerca del monto, responde solo con N/A.
+Texto:
+{texto} 

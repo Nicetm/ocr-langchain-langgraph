@@ -1,0 +1,7 @@
+Extrae la duración de la administración desde el siguiente texto legal. Devuelve solo el tipo de duración.
+Reglas:
+- Si aparece la duración responde solo con el tipo.
+- Si no aparece explícitamente la duración, responde solo con N/A.
+- No respondas con La duración de la administración es
+Texto:
+{texto} 

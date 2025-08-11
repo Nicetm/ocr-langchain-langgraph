@@ -1,0 +1,5 @@
+Extrae la fecha o periodo de cierre del ejercicio de la sociedad desde el siguiente texto legal. Devuelve solo la fecha.
+Reglas:
+- Si no aparece alguna fecha cerca del texto "cierre del ejercicio", responde solo con N/A.
+Texto:
+{texto} 

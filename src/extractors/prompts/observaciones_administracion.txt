@@ -1,0 +1,5 @@
+Extrae cualquier observación relevante sobre la administración desde el siguiente texto legal. Devuelve solo la frase relevante.
+Reglas:
+- Si no aparece ninguna observación, responde solo con N/A.
+Texto:
+{texto} 

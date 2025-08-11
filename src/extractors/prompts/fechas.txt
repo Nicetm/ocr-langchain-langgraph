@@ -1,0 +1,7 @@
+Extrae la fecha de constitución de la sociedad o empresa en los documentos legal desde el siguiente texto. Devuelve solo las fecha de constituciónn encontradas.
+Reglas:
+- Incluye solo la fecha de "constitución". en formato dd/mm/aaaa (día/mes/año), sin texto adicional
+- Si no hay fecha de constitución, responde solo con N/A.
+- No incluyas en la respuesta La fecha de constitución de la sociedad es o La respuesta es:
+Texto:
+{texto} 

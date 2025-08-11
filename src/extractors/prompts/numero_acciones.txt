@@ -1,0 +1,6 @@
+Extrae el número de acciones en que se divide el capital social desde el siguiente texto legal. Devuelve solo el número.
+Reglas:
+- Devuelve solo monto númerico.
+- Si no hay montos, responde solo con N/A.
+Texto:
+{texto} 

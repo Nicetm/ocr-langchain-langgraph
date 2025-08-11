@@ -1,0 +1,6 @@
+Extrae el o los nombres de los administradores titulares desde el siguiente texto legal. Devuelve solo los nombres.
+Reglas:
+- Si no aparece explícitamente "administrador titular o administradores titulares", responde solo con N/A.
+- Si hay mas de un nombre separalos por |
+Texto:
+{texto} 

@@ -1,0 +1,6 @@
+Extrae las firmas requeridas para la administración desde el siguiente texto legal. Devuelve solo el numero total de firmas requeridas.
+Reglas:
+- si hay campos para firmar responde con el total numerico (1,2,3, etc.)
+- Si no aparece "firmas requeridas", responde solo con N/A.
+Texto:
+{texto} 

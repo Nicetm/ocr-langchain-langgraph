@@ -1,0 +1,6 @@
+Extrae los titulares de la representación legal desde el siguiente texto legal. Devuelve solo el total numerico de titulares.
+Reglas:
+- Si existen titulares responde unicamente con el total numerico (1,2,3, etc.)
+- Si no aparece explícitamente "titular de la representación legal", responde solo con N/A.
+Texto:
+{texto} 

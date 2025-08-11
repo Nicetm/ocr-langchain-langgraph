@@ -1,0 +1,6 @@
+Extrae el tipo de administración de la sociedad desde el siguiente texto legal. Devuelve solo el tipo.
+Reglas:
+- Si aparece explícitamente "tipo de administración", devuelve solo el tipo sin texto adicional
+- Si no aparece explícitamente el tipo de administración, responde solo con N/A.
+Texto:
+{texto} 

@@ -1,0 +1,6 @@
+Extrae el o los nombres de los administradores suplentes desde el siguiente texto legal. Devuelve solo los nombres de las personas.
+Reglas:
+- Si no aparece explícitamente "administrador suplente o administradores suplentes", responde solo con N/A.
+- Si hay mas de un nombre separalos por |
+Texto:
+{texto} 

@@ -1,0 +1,5 @@
+Extrae el plazo para entregar el capital social desde el siguiente texto legal. Devuelve solo el plazo.
+Reglas:
+- Si no hay "un plazo para entregar el capital social", responde solo con N/A
+Texto:
+{texto} 

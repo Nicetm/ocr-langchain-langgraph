@@ -1,0 +1,7 @@
+Extrae un resumen breve del documento legal desde el siguiente texto. Devuelve solo un resumen.
+Reglas:
+- Incluye solo información relevante en el resumen del documento (nombre empresa, nombre fantasia, objetivo de la sociedad o empresa).
+- No mas de 3 líneas
+- No incluyas en la respuesta Aquí te presento un resumen breve del documento legal o La respuesta es.
+Texto:
+{texto} 

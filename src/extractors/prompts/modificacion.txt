@@ -1,0 +1,7 @@
+Extrae información sobre modificaciones o cambios en la sociedad desde el siguiente texto legal.
+Reglas:
+- Incluye solo las modificaciones (estatutos, capital, administración, etc.).
+- Si hay mas de una modificación separalas por |
+- Si no hay información de modificaciones, responde solo con N/A.
+Texto:
+{texto} 

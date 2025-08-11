@@ -1,0 +1,6 @@
+Extrae la regla o mecanismo de distribución de utilidades de la sociedad desde el siguiente texto legal. Devuelve solo la frase.
+Reglas:
+- Si no aparece el texto "mecanismo de distribución" por defecto quedará como "A Prorrata de los Aportes".
+- No incluyas en la respuesta La regla o mecanismo de distribución de utilidades es o La respuesta es.
+Texto:
+{texto} 
